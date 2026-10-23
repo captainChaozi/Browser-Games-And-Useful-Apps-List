@@ -46,6 +46,8 @@
 - [Aixploria](https://www.aixploria.com/en/)
 - [ExcaliDraw](https://excalidraw.com/)
   
+- [Plain Game](https://plaingame.fun/) - daily estimation / number-sense game
+
 ## 6. PC Games
 - [4fnet](https://www.4fnet.org/)
 - [Union Crax](https://union-crax.xyz/home)
